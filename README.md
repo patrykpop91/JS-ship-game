@@ -1,1 +1,2 @@
-# JS-ship-game
+# shipGame
+A JavaScript project
